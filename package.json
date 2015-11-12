@@ -1,0 +1,16 @@
+{
+  "name": "babel-bug-2684",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel index.js"
+  },
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.1.4",
+    "babel-preset-es2015": "^6.1.4"
+  },
+  "private": true
+}
